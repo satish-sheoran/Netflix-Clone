@@ -16,7 +16,7 @@ body {
 }
 
 .main {
-    background-image: url("assets/images/NetflixBG\ -\ Copy.jpg");
+    background-image: url("./NetflixBG\ -\ Copy.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -930,4 +930,5 @@ BEGIN HERE ..>>...............
     .netflix {
         margin: 20px 0;
     }
+
 }
